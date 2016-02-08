@@ -30,3 +30,5 @@
 
 # Debug files
 *.dSYM/
+/Head-First-C/Chapter 3 Tools/Chapter 3 Tools/dist/
+/Head-First-C/Chapter 3 Tools/Chapter 3 Tools/build/
