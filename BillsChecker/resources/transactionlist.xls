@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.personInfo {
+	font-size: 10pt;
+	font-weight: bold;
+}
+.SHBHeader {
+	font-weight: bold;
+}
+.eventSum {
+	font-weight: bold;
+}
+</style>
+</HEAD>
+<BODY>
+
+
+
+
+
+<span  class="person">
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585">
+<tbody>
+<tr><td colspan="9" nowrap>
+<span class="personInfo">
+	Period:&nbsp;2016-02-25&nbsp;till&nbsp;2016-04-10
+	&nbsp; 
+	Trans.typ:&nbsp;Alla
+	&nbsp; 
+	Person:&nbsp;JOHAN FREDIN
+	&nbsp;
+	Antal transaktioner:&nbsp;19
+</span>
+</td></tr>
+
+
+</tbody>
+</table>
+
+
+<table class="eventTable" border="0" cellpadding="0" cellspacing="0" width="585">
+<tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="groupSeparator"><td colspan="9"></td></tr>
+
+<tr class="groupHeader"><td colspan="9">
+
+	<b>
+		Februari
+		&nbsp;&nbsp;&nbsp;
+		lönekonto 595 908 942
+	</b>
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Disponibelt belopp:
+
+		&nbsp;30 272,45
+
+</b>
+</td></tr>
+
+
+
+<TR><TD class="SHBHeader">Datum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader">Mottagare</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader">Konto</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader">Belopp</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader">Avisering</TD></TR>
+<TR><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">Alfa Kassan</TD><TD>&nbsp;</TD><TD align="left">Bg 5370-2395</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">120,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">BRA BOENDE I MÖLNDAL BRF</TD><TD>&nbsp;</TD><TD align="left">Bg 5932-7239</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">3 351,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">COM HEM AB</TD><TD>&nbsp;</TD><TD align="left">Autogiro 5361-1737</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">200,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">HI3G ACCESS AB</TD><TD>&nbsp;</TD><TD align="left">PG 4930400-9</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">702,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">IF SKADEFÖRSÄKRING AB (PU</TD><TD>&nbsp;</TD><TD align="left">PG 822700-1</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">238,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-26</TD><TD>&nbsp;</TD><TD align="left">Klarna AB/Nordea Finans Sverige AB</TD><TD>&nbsp;</TD><TD align="left">Bg 221-1555</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">3 000,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">AMNESTY</TD><TD>&nbsp;</TD><TD align="left">Autogiro 900-0720</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">25,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">ARBETSLÖSHETSKASSAN ALFA</TD><TD>&nbsp;</TD><TD align="left">Bg 5370-2395</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">120,00</TD><TD>&nbsp;</TD><TD nowrap>E-faktura</TD></TR>
+<TR><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">CENTRALA STUDIESTÖDSNÄMNDEN</TD><TD>&nbsp;</TD><TD align="left">Bg 5580-3084</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">1 724,00</TD><TD>&nbsp;</TD><TD nowrap>E-faktura</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">GREENPEACE</TD><TD>&nbsp;</TD><TD align="left">Autogiro 901-2402</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">50,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">MÖLNDALS STAD</TD><TD>&nbsp;</TD><TD align="left">Bg 5188-8568</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">1 260,00</TD><TD>&nbsp;</TD><TD nowrap>E-faktura</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">STADSHYPOTEK</TD><TD>&nbsp;</TD><TD align="left">HS 12153989</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">2 223,00</TD><TD>&nbsp;</TD><TD nowrap>Låneavi</TD></TR>
+<TR><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">STATOIL FUEL &amp; RETAIL SVERIGE AB</TD><TD>&nbsp;</TD><TD align="left">PG 809400-5</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">1 029,00</TD><TD>&nbsp;</TD><TD nowrap>E-faktura</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-02-29</TD><TD>&nbsp;</TD><TD align="left">UNHCR</TD><TD>&nbsp;</TD><TD align="left">Autogiro 900-1645</TD><TD>&nbsp;</TD><TD align="right" class="colBelopp">200,00</TD><TD>&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+
+
+
+	
+<tr><td height="4" colspan="9"></td></tr>
+
+<tr class="groupFooter">
+<td colspan="6">
+	<b>Totalt</b>
+</td>
+<td align="right" class="amountSeparatorExcel"><b><b>14 242,00</b></b></td>
+<td colspan="2">&nbsp;</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="groupHeader"><td colspan="9" class="monthSeparator">
+<b>
+	Mars
+</b>
+</td></tr>
+
+
+
+<TR><TD height="15" align="left">2016-03-01</TD><TD width="5">&nbsp;</TD><TD align="left">STADSHYPOTEK</TD><TD width="5">&nbsp;</TD><TD align="left">HS 12153989</TD><TD width="5">&nbsp;</TD><TD align="right" class="colBelopp">727,00</TD><TD width="5">&nbsp;</TD><TD nowrap>Låneavi</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-03-01</TD><TD width="5">&nbsp;</TD><TD align="left">VOLKSWAGEN</TD><TD width="5">&nbsp;</TD><TD align="left">Autogiro 5010-9198</TD><TD width="5">&nbsp;</TD><TD align="right" class="colBelopp">2 276,00</TD><TD width="5">&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-03-14</TD><TD width="5">&nbsp;</TD><TD align="left">RADIOTJÄNST I KIRUNA AB</TD><TD width="5">&nbsp;</TD><TD align="left">PG 920003-1</TD><TD width="5">&nbsp;</TD><TD align="right" class="colBelopp">554,00</TD><TD width="5">&nbsp;</TD><TD nowrap>E-faktura</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" align="left">2016-03-29</TD><TD width="5">&nbsp;</TD><TD align="left">AMNESTY</TD><TD width="5">&nbsp;</TD><TD align="left">Autogiro 900-0720</TD><TD width="5">&nbsp;</TD><TD align="right" class="colBelopp">25,00</TD><TD width="5">&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+<TR><TD height="15" align="left">2016-03-29</TD><TD width="5">&nbsp;</TD><TD align="left">GREENPEACE</TD><TD width="5">&nbsp;</TD><TD align="left">Autogiro 901-2402</TD><TD width="5">&nbsp;</TD><TD align="right" class="colBelopp">50,00</TD><TD width="5">&nbsp;</TD><TD nowrap>&nbsp;</TD></TR>
+
+
+
+	
+<tr><td height="4" colspan="9"></td></tr>
+
+<tr class="groupFooter">
+<td colspan="6">
+	<b>Totalt</b>
+</td>
+<td align="right" class="amountSeparatorExcel"><b><b>3 632,00</b></b></td>
+<td colspan="2">&nbsp;</td>
+</tr>
+
+
+
+
+
+
+
+
+</span>
+
+</tbody>
+</table>
+
+
+</BODY>
+</HTML>

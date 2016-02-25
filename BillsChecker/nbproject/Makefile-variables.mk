@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=chapter_3_tools
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/chapter_3_tools
+CND_ARTIFACT_NAME_Debug=billschecker
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/billschecker
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=chapter3tools.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/chapter3tools.tar
+CND_PACKAGE_NAME_Debug=billschecker.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/billschecker.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=chapter_3_tools
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/chapter_3_tools
+CND_ARTIFACT_NAME_Release=billschecker
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/billschecker
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=chapter3tools.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/chapter3tools.tar
+CND_PACKAGE_NAME_Release=billschecker.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/billschecker.tar
 #
 # include compiler specific variables
 #
