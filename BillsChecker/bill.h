@@ -8,8 +8,11 @@
  * File:   bill.h
  * Author: johan
  *
- * Created on February 25, 2016, 10:29 PM
+ * Created on March 6, 2016, 10:35 PM
  */
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 #ifndef BILL_H
 #define BILL_H
@@ -18,14 +21,29 @@
 extern "C" {
 #endif
 
-    typedef struct {
+typedef struct Bill {
     
-        char *name;
-        struct Bill *next;
-    
-    } Bill;
+   char *record;
+   short index;
+   unsigned int isChecked:1;
+   struct Bill* next;
+   
+} Bill;
 
-    void addBill(Bill*);
+
+
+Bill* createBill(char*, short*);
+
+Bill* getLinkedBillsFromFile(FILE*);
+
+short checkBill(Bill*, char*);
+
+void removeBills(Bill*);
+
+void displayBills(Bill*);
+
+void displayMissingBills(Bill*);
+
 
 #ifdef __cplusplus
 }

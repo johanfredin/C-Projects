@@ -11,44 +11,47 @@
  * Created on February 25, 2016, 9:44 PM
  */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 #include "bill.h"
-
 /*
  * 
  */
 int main(int argc, char** argv) {
     
-    const char *fileDir = "resources/transactionlist.xls";
-    const char *outFileDir = "resources/transactionlist.csv";
+    // Retrieve the file containing the list of bills needed
+    Bill *bill = getLinkedBillsFromFile(fopen("resources/Bills Needed.csv", "r"));
     
+    char *fileDir = "resources/transactionlist.xls";
+    FILE *transactionsFile = fopen(fileDir, "r");
     
-    
-    FILE *excelFile = fopen(fileDir, "r");
-    FILE *csvFile = fopen(outFileDir, "w");
-    
-    if(!(excelFile = fopen(fileDir, "r"))) {
+    if(!(transactionsFile = fopen(fileDir, "r"))) {
         fprintf(stderr, "Can't open the file.\n");
+        removeBills(bill);
         return EXIT_FAILURE;
     } else {
-        printf("All good boss\n");
-    }
-    
-    
-    char test[] = "LNDALS STAD";  // U+00D6	// 214	
-    
-    char currentLine[238];
-    while(fscanf(excelFile, "%238[^\n]\n", currentLine) == 1) {
-        if(strstr(currentLine, test)) {
-            printf("Found %s on current line!\n", test);
+        
+        short checkSum = 0;
+        char currentLine[250];
+        while(fscanf(transactionsFile, "%100[^\n]\n", currentLine) == 1) {
+            checkSum += checkBill(bill, currentLine);
+        }
+        
+        // time to check if we paid da bills!
+        if(checkSum <= 0) {
+            puts("All bills paid, good job pal!");
+        } else {
+            puts("Missing bills");
+            puts("-------------");
+            displayMissingBills(bill);
         }
         
     }
+    
+    removeBills(bill);
+    
     
     return (EXIT_SUCCESS);
     
     
 }
+
 
