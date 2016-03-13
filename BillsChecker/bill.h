@@ -23,7 +23,7 @@ extern "C" {
 
 typedef struct Bill {
     
-   char *record;
+   char *name;
    short index;
    unsigned int isChecked:1;
    struct Bill* next;

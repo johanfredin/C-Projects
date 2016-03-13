@@ -13,7 +13,7 @@ Bill* createBill(char *name, short* index) {
     size_t length = strlen(name);
     char* newName = malloc(sizeof(name) * length);
     newName = strncpy(newName, name, length);
-    bill->record =  newName;
+    bill->name =  newName;
     bill->index = *index;
     bill->isChecked = 0;
     bill->next = NULL;
@@ -26,7 +26,7 @@ void removeBills(Bill *first) {
     
     for(; current != NULL; current = next) {
         next = current->next;
-        free(current->record);
+        free(current->name);
         free(current);
     }
 }
@@ -60,7 +60,7 @@ void displayBills(Bill *bill) {
     puts("Bills in system:");
     puts("----------------");
     while(bill->next != NULL) {
-        printf("name=%s, index=%hi, isChecked=%i \n", bill->record, bill->index, bill->isChecked);
+        printf("name=%s, index=%hi, isChecked=%i \n", bill->name, bill->index, bill->isChecked);
         bill = bill->next;
         
     }
@@ -74,7 +74,7 @@ void displayBills(Bill *bill) {
  */
 short checkBill(Bill *bill, char *currentLine) {
     while(bill->next != NULL) {
-        if(strstr(currentLine, bill->record)) {
+        if(strstr(currentLine, bill->name)) {
             bill->isChecked = 1;
             return 1;
         }
@@ -86,7 +86,7 @@ short checkBill(Bill *bill, char *currentLine) {
 void displayMissingBills(Bill *bill) {
     while(bill->next != NULL) {
         if(!bill->isChecked) {
-            puts(bill->record);
+            puts(bill->name);
         }
         bill = bill->next;
     } 
